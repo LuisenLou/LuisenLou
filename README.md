@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LuisenLou
-- 👀 I’m interested in learning how to by a good FullStack developer.
+- 👀 I’m interested in learning how to be a good FullStack developer.
 - 🌱 I’m currently learning Java, Javascript/Typescript and React JS/TS/Native.
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me through gmail, just ask me.
