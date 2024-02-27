@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LuisenLou
 - 👀 I’m interested in learning how to be a good FullStack developer.
-- 🌱 I’m currently learning Java, Javascript/Typescript and React JS/TS/Native.
+- 🌱 I’m currently learning Java, Javascript/Typescript working with libraries as React/Next.
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me through gmail, just ask me.
 
