@@ -61,9 +61,19 @@ I look forward to connecting with fellow professionals and students who share si
 </div>
 
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
-
-<p> Icons by <a href="https://iconos8.es/">
+<p font-size = 8px > Icons by <a href="https://iconos8.es/">
   Icons8
 </a></p>
 <!---
