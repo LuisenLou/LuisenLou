@@ -1,4 +1,4 @@
-# 👋 Hi, I’m <a href="https://www.youtube.com/watch?v=i-GgLuRGecY" style="text-decoration: none; color: inherit;"> @LuisenLou </a> 
+# 👋 Hi, I’m <a href="https://www.youtube.com/watch?v=i-GgLuRGecY" style="text-decoration: none; color:"#fff";"> @LuisenLou </a> 
 
 ### 🎲ABOUT ME:
 
