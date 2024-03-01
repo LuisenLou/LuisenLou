@@ -10,7 +10,7 @@ I look forward to connecting with fellow professionals and students who share si
 ---
 
 ### 👾SKILLS:
-
+<div style="display:flex; justify-content: space-between;">
 <img src="https://img.icons8.com/color/100/html-5--v1.png" alt="html-5--v1"/>
 <img src="https://img.icons8.com/color/100/css3.png" alt="css3"/> 
 <img src="https://img.icons8.com/color/100/javascript--v1.png" alt="javascript--v1"/>
@@ -18,14 +18,17 @@ I look forward to connecting with fellow professionals and students who share si
 <img src="https://img.icons8.com/color/100/react-native.png" alt="react-native"/>
 <img src="https://img.icons8.com/color/100/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
 <img src="https://img.icons8.com/external-those-icons-flat-those-icons/100/external-MySQL-programming-and-development-those-icons-flat-those-icons.png" alt="external-MySQL-programming-and-development-those-icons-flat-those-icons"/>
+</div>
                 
 
 ---
 
 ### 📧CONTACT:
+<div style="display:flex; justify-content: space-between;">
 <img src="https://img.icons8.com/color/100/instagram-new--v1.png" alt="instagram-new--v1"/>
 <img src="https://img.icons8.com/color/100/linkedin.png" alt="linkedin"/>
 <img src="https://img.icons8.com/fluency/100/gmail-new.png" alt="gmail-new"/>
+</div>
 <!---
 LuisenLou/LuisenLou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
