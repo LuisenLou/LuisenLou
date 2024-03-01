@@ -36,10 +36,14 @@ I look forward to connecting with fellow professionals and students who share si
 
 <div style="display:flex; justify-content: space-between;">
 <a href="https://www.instagram.com/luisen97/">
-<img src="https://img.icons8.com/color/100/instagram-new--v1.png" alt="instagram-new--v1"/>
+  <img src="https://img.icons8.com/color/100/instagram-new--v1.png" alt="instagram-new--v1"/>
 </a>
-<img src="https://img.icons8.com/color/100/linkedin.png" alt="linkedin"/>
-<img src="https://img.icons8.com/fluency/100/gmail-new.png" alt="gmail-new"/>
+<a href="https://www.linkedin.com/in/luis-enrique-zegarra-pretell-752bba191/">
+  <img src="https://img.icons8.com/color/100/linkedin.png" alt="linkedin"/>
+</a>
+<a href="https://mail.google.com/">
+  <img src="https://img.icons8.com/fluency/100/gmail-new.png" alt="gmail-new"/> 
+</a>
 </div>
 <!---
 LuisenLou/LuisenLou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
