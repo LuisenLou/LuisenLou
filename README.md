@@ -59,21 +59,11 @@ I look forward to connecting with fellow professionals and students who share si
   <img src="https://img.icons8.com/fluency/100/gmail-new.png" alt="gmail-new"/> 
 </a>
 </div>
-
-
 <br>
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-<p style="font-size: 8px;"> Icons by <a href="https://iconos8.es/">
+<p style="font-size: 5px;"> Icons by <a href="https://iconos8.es/">
   Icons8
 </a></p>
 <!---
