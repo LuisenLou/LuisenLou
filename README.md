@@ -1,6 +1,8 @@
 # 👋 Hi, I’m @LuisenLou
 
 ### 🎲ABOUT ME:
+
+
 I'm a registered nurse with a degree from the Complutense University💊, and I am currently pursuing a Higher Degree in Multiplatform Application Development (DAM) at iFP.💻
 
 I consider myself well-suited for teamwork, possessing strong organizational skills, time management, and the ability to analyze benefits and risks.👷
@@ -14,6 +16,8 @@ I look forward to connecting with fellow professionals and students who share si
 ---
 
 ### 👾SKILLS:
+
+
 <div style="display:flex; justify-content: space-between;">
 <img src="https://img.icons8.com/color/100/html-5--v1.png" alt="html-5--v1"/>
 <img src="https://img.icons8.com/color/100/css3.png" alt="css3"/> 
@@ -28,8 +32,12 @@ I look forward to connecting with fellow professionals and students who share si
 ---
 
 ### 📧CONTACT:
+
+
 <div style="display:flex; justify-content: space-between;">
+<a href="https://www.instagram.com/luisen97/">
 <img src="https://img.icons8.com/color/100/instagram-new--v1.png" alt="instagram-new--v1"/>
+</a>
 <img src="https://img.icons8.com/color/100/linkedin.png" alt="linkedin"/>
 <img src="https://img.icons8.com/fluency/100/gmail-new.png" alt="gmail-new"/>
 </div>
