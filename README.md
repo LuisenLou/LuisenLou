@@ -1,9 +1,13 @@
 # 👋 Hi, I’m @LuisenLou
 
 ### 🎲ABOUT ME:
-I'm a registered nurse with a degree from the Complutense University💊, and I am currently pursuing a Higher Degree in Multiplatform Application Development (DAM) at iFP.💻 
+I'm a registered nurse with a degree from the Complutense University💊, and I am currently pursuing a Higher Degree in Multiplatform Application Development (DAM) at iFP.💻
+
 I consider myself well-suited for teamwork, possessing strong organizational skills, time management, and the ability to analyze benefits and risks.👷
-I have full confidence in myself, believe in continuous learning 👀, and understand the power of the community in driving both personal and professional growth 🌱. I am open to connecting with like-minded individuals who share my enthusiasm and are eager to collaborate on projects that can positively impact people's lives.🎢👥
+
+I have full confidence in myself, believe in continuous learning 👀, and understand the power of the community in driving both personal and professional growth 🌱. 
+I am open to connecting with like-minded individuals who share my enthusiasm and are eager to collaborate on projects that can positively impact people's lives.🎢👥
+
 I look forward to connecting with fellow professionals and students who share similar interests and working together on exciting projects.🚀🌕
 
 
